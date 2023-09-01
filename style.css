@@ -173,6 +173,10 @@ td{
 .my-categories>img:hover{
     transform: scale(1.2);
 }
+.heading>h5{
+    font-size: 20px;
+    color: rgb(12, 131, 31);
+}
 
 @media screen and (max-width:768px) {
     nav,.row-1,.row-2{
